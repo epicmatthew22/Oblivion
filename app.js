@@ -80,4 +80,4 @@ bot.on('ready', () => {
 })
 
 
-bot.login('NDY1MTYyMDg1NzYxMDI0MDAx.DiJfdw.G52h0RedqK_NPgwNCwH51oPSfq4')
+bot.login('')
